@@ -1,2 +1,2 @@
-# 3D_Models_Displayer-master
-OpenGL project implementation of a Graphics Pipeline for loading 3D obj files.
+# 3D_Models_Displayer
+OpenGL project for loading 3D obj files and process their vertices trough a graphics pipline from model coordinates to the screen.
