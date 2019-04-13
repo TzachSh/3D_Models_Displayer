@@ -1,9 +1,3 @@
-//  
-// Created by Ran Dror on April 2018
-// Copyright (c) Ran Dror. All right reserved.
-// Code can not be copied and/or distributed without the express permission of author
-//
-
 /////////////////////////////////////////////////
 //vector and matrix algebra helper functions
 /////////////////////////////////////////////////
